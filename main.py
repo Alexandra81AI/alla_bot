@@ -2,7 +2,7 @@ import telebot
 from openai import OpenAI
 
 # Токены
-TELEGRAM_TOKEN = "8176948262:AAF8VkD7GmmVLArAuKY65BDA_eZHxoj4TNI"
+TELEGRAM_TOKEN = "8176948262:AAG2tTM9p5ghdDszDVSnFBpRrRVavc7t9x4"
 OPENAI_API_KEY = "sk-hrP9puzP3ULg2ahSzs0dbYlvtkak7C8G"
 
 # Настройка ProxyAPI
